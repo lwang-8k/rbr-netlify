@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/*"
+  status = 200
+  to = "https://rocketbotroyale.winterpixel.io/:splat"
+  force = false
